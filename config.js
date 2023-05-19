@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "theluvuyn",
+    titleWeb: "puchan",
 
     background: "background.jpg",
 
