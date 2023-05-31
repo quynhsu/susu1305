@@ -1,7 +1,7 @@
 const CONFIG = {
-    titleWeb: "puchan",
+    titleWeb: "binhhh",
 
-    background: "img3.jpg",
+    background: "img8.jpg",
 
     min1: "img1.jpg",
     min2: "img2.jpg",
